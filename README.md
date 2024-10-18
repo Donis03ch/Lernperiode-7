@@ -1,14 +1,14 @@
-Grob-Planung
+# Lernperiode 7
 
-Max Muster
+## Grob-Planung
 
-20.10.2023 bis 22.12.2023 (🎄 Weihnachtsferien)
+18.10.2024 bis 20.12.2024
 
 ## Leit-Satz
 
 In meinem zweiten Projekt möchte ich... (xx Wörter)
 
-## Arbeitspakete für 20.10.2023
+## Arbeitspakete für 18.10.2024
 
 - [ ] Ein neues `C#`-Projekt erstellen, bei welchem ich...
 
@@ -18,4 +18,4 @@ In meinem zweiten Projekt möchte ich... (xx Wörter)
 
 Heute habe ich... (xx Wörter)
 
-## Arbeitspakete für 27.10.2023
+## Arbeitspakete für 25.10.2024
