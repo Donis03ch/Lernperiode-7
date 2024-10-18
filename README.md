@@ -10,8 +10,8 @@
 
 ## Arbeitspakete für 18.10.2024
 
-- [x] ...
-- [ ] ...
+- [ ] Learn what is a Chip-8 Interpreter
+- [ ] CPU Structure
 - [ ] ...
 
 Heute habe ich... (xx Wörter)
