@@ -6,7 +6,7 @@
 
 1. Meine Noten im letzten Semester waren gut, ich muss mehr üben.
 2. Ich kann mich bei Schwierigkeiten an der Lehrperson wenden.
-3. Modul 320 und ein Chip-8 Interpreter als Projekt.
+3. Modul ## und ein Chip-8 Interpreter als Projekt.
 
 ## Arbeitspakete für 18.10.2024
 
