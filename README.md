@@ -10,7 +10,7 @@
 
 ## Arbeitspakete für 18.10.2024
 
-- [ ] Chip-8 Introduction
+- [ ] Learn what is a Chip-8 Interpreter
 - [ ] ...
 - [ ] ...
 
@@ -18,5 +18,5 @@ Heute habe ich... (xx Wörter)
 
 ## Arbeitspakete für 25.10.2024
 
-- [ ] Learn what is a Chip-8 Interpreter
+- [ ] Chip-8 Introduction
 - [ ] CPU Structure
