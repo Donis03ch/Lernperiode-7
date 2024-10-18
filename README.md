@@ -10,10 +10,9 @@ In meinem zweiten Projekt möchte ich... (xx Wörter)
 
 ## Arbeitspakete für 18.10.2024
 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [x] ...
+- [ ] ...
+- [ ] ...
 
 Heute habe ich... (xx Wörter)
 
