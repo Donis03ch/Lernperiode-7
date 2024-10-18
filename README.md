@@ -4,9 +4,9 @@
 
 18.10.2024 bis 20.12.2024
 
-## Leit-Satz
-
-In meinem zweiten Projekt möchte ich... (xx Wörter)
+1. Meine Noten im letzten Semester waren gut, ich muss mehr üben.
+2. Ich kann mich bei Schwierigkeiten an der Lehrperson wenden.
+3. Modul 320 und ein Chip-8 Interpreter als Projekt.
 
 ## Arbeitspakete für 18.10.2024
 
