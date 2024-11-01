@@ -22,7 +22,7 @@ Heute habe ich... (xx Wörter)
 - [x] CPU Structure
 
 
-## Arbeitspakete für 25.10.2024
+## Arbeitspakete für 01.11.2024
 
 - [ ] Opcodes
 - [ ] program flow
