@@ -18,5 +18,11 @@ Heute habe ich... (xx Wörter)
 
 ## Arbeitspakete für 25.10.2024
 
-- [ ] Chip-8 Introduction
-- [ ] CPU Structure
+- [x] Chip-8 Introduction
+- [x] CPU Structure
+
+
+## Arbeitspakete für 25.10.2024
+
+- [ ] Opcodes
+- [ ] program flow
