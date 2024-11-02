@@ -24,5 +24,5 @@ Heute habe ich... (xx Wörter)
 
 ## Arbeitspakete für 01.11.2024
 
-- [ ] Opcodes
+- [x] Opcodes
 - [ ] program flow
