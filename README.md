@@ -27,8 +27,8 @@ Heute habe ich... (xx Wörter)
 - [x] Opcodes
 - [ ] program flow
 
-## Arbeitspakete für 01.11.2024
+## Arbeitspakete für 08.11.2024
 
 - [ ] program flow
-- [ ] -
+- [ ] draw display
 
