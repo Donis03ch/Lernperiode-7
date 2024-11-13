@@ -30,5 +30,10 @@ Heute habe ich... (xx Wörter)
 ## Arbeitspakete für 08.11.2024
 
 - [ ] program flow
-- [ ] draw display
+- [x] draw display
+
+## Arbeitspakete für 15.11.2024
+
+- [ ] -
+- [ ] -
 
