@@ -34,6 +34,6 @@ Heute habe ich... (xx Wörter)
 
 ## Arbeitspakete für 15.11.2024
 
-- [ ] -
+- [ ] display
 - [ ] -
 
