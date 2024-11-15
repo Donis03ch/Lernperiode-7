@@ -39,3 +39,4 @@ Heute habe ich... (xx Wörter)
 - [ ] SDL drawing
 - [ ] debugging
 
+Ich habe heute am Display gearbeitet. Da es noch Bugs gab, musste Ich die meiste Zeit mit dem Debugger grübbeln.
