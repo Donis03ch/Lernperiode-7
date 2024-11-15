@@ -37,4 +37,5 @@ Heute habe ich... (xx Wörter)
 - [ ] display
 - [ ] SDL Window
 - [ ] SDL drawing
+- [ ] debugging
 
