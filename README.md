@@ -34,15 +34,15 @@ Heute habe ich... (xx Wörter)
 
 ## Arbeitspakete für 15.11.2024
 
-- [ ] display
+- [x] display
 - [ ] SDL Window
 - [ ] SDL drawing
-- [ ] debugging
+- [x] debugging
 
 Ich habe heute am Display gearbeitet. Da es noch Bugs gab, musste Ich die meiste Zeit mit dem Debugger grübbeln.
 
 ## Arbeitspakete für 22.11.2024
 
-- [ ] SDL Window
+- [x] SDL Window
 - [ ] SDL drawing
 - [ ] debugging
