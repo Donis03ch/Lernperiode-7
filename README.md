@@ -40,3 +40,9 @@ Heute habe ich... (xx Wörter)
 - [ ] debugging
 
 Ich habe heute am Display gearbeitet. Da es noch Bugs gab, musste Ich die meiste Zeit mit dem Debugger grübbeln.
+
+## Arbeitspakete für 22.11.2024
+
+- [ ] SDL Window
+- [ ] SDL drawing
+- [ ] debugging
