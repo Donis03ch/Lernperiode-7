@@ -56,6 +56,6 @@ Ich habe heute am Display gearbeitet. Da es noch Bugs gab, musste Ich die meiste
 
 ## Arbeitspakete für 06.12.2024
 
-- [ ] SDL Drawing
-- [ ] Input 
-- [ ] debugging
+- [x] SDL Drawing
+- [x] Input 
+- [x] debugging
