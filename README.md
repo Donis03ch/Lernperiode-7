@@ -27,6 +27,7 @@ Heute habe ich... (xx Wörter)
 - [x] Opcodes
 - [ ] program flow
 
+
 ## Arbeitspakete für 08.11.2024
 
 - [ ] program flow
@@ -46,3 +47,15 @@ Ich habe heute am Display gearbeitet. Da es noch Bugs gab, musste Ich die meiste
 - [x] SDL Window
 - [ ] SDL drawing
 - [x] debugging
+
+## Arbeitspakete für 2911.2024
+
+- [ ] Aufgabe 2.1
+- [x] Aufgabe 2.2
+- [ ] Aufgabe 3
+
+## Arbeitspakete für 06.12.2024
+
+- [ ] SDL Drawing
+- [ ] SDL 
+- [ ] debugging
