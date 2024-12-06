@@ -48,7 +48,7 @@ Ich habe heute am Display gearbeitet. Da es noch Bugs gab, musste Ich die meiste
 - [ ] SDL drawing
 - [x] debugging
 
-## Arbeitspakete für 2911.2024
+## Arbeitspakete für 29.11.2024
 
 - [ ] Aufgabe 2.1
 - [x] Aufgabe 2.2
