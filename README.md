@@ -60,7 +60,7 @@ Ich habe heute am Display gearbeitet. Da es noch Bugs gab, musste Ich die meiste
 - [x] Input 
 - [x] debugging
 
-## Arbeitspakete für 06.12.2024
+## Arbeitspakete für 13.12.2024
 
 - [ ] Audio
 - [ ] debugging
