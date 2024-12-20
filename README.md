@@ -63,6 +63,11 @@ Ich habe heute am Display gearbeitet. Da es noch Bugs gab, musste Ich die meiste
 ## Arbeitspakete für 13.12.2024
 
 - [ ] Audio
-- [ ] debugging
+- [x] debugging
 
 Objective today: finish the Interpreter
+
+## Arbeitspakete für 20.12.2024
+
+- [ ] xx
+- [ ] debugging
